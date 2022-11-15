@@ -1,0 +1,5 @@
+kütle = int(input("Kütle(m) değerini yazınız:"))
+ivme = int(input("İvme(a) değerini yazınız:"))
+kuvvet = int(kütle)*int(ivme)
+print("Net kuvvet:")
+print(kuvvet)
