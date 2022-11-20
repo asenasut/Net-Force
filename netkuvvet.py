@@ -1,5 +1,5 @@
 mass = int(input("Write the mass value:"))
 acceleration = int(input("Write the acceleration value:"))
-force = int(mass)*int(iacceleration)
+force = int(mass)*int(acceleration)
 print("Net force:")
 print(force)
